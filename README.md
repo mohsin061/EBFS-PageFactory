@@ -3,15 +3,17 @@ The point of this project is to take your knowledge of Java, Selenium, Log4j, Te
 
 
 Dependency:
-Java
-Maven
-
-##libraries used
+```
+	Java
+	Maven
+```
+###libraries used
+```
 	Selenium WebDriver
 	TestNG
 	log4j
 	Extent Reports
-
+```
 ### Steps to Clone and Execute the Tests
 ```
 1. Go to https://github.com/compiliaacademy/EBFS-PageFactory.git
